@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grass_quad.obj-81796e7b40cbd41b1cfa11dbe3dc567f.mesh"
+
+[deps]
+
+files=[ "res://.import/grass_quad.obj-81796e7b40cbd41b1cfa11dbe3dc567f.mesh" ]
+
+source_file="res://zylann.hterrain/models/grass_quad.obj"
+dest_files=[ "res://.import/grass_quad.obj-81796e7b40cbd41b1cfa11dbe3dc567f.mesh", "res://.import/grass_quad.obj-81796e7b40cbd41b1cfa11dbe3dc567f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
